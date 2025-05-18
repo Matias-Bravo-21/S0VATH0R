@@ -1,0 +1,31 @@
+[Sat Mar 15 12:09:26 2025] PHP 8.4.4 Development Server (http://localhost:2525) started
+[Sat Mar 15 12:09:37 2025] [::1]:54948 Accepted
+[Sat Mar 15 12:09:37 2025] [::1]:54948 [302]: GET /
+[Sat Mar 15 12:09:37 2025] [::1]:54948 Closing
+[Sat Mar 15 12:09:37 2025] [::1]:54950 Accepted
+[Sat Mar 15 12:09:37 2025] [::1]:54950 [200]: GET /login.php
+[Sat Mar 15 12:09:37 2025] [::1]:54950 Closing
+[Sat Mar 15 12:09:37 2025] [::1]:54956 Accepted
+[Sat Mar 15 12:09:37 2025] [::1]:54956 [200]: GET /assets/css/bootstrap.min.css
+[Sat Mar 15 12:09:37 2025] [::1]:54956 Closing
+[Sat Mar 15 12:09:37 2025] [::1]:54958 Accepted
+[Sat Mar 15 12:09:37 2025] [::1]:54958 [200]: GET /assets/css/style.css
+[Sat Mar 15 12:09:37 2025] [::1]:54958 Closing
+[Sat Mar 15 12:09:37 2025] [::1]:54964 Accepted
+[Sat Mar 15 12:09:37 2025] [::1]:54964 [302]: GET /favicon.ico
+[Sat Mar 15 12:09:37 2025] [::1]:54964 Closing
+[Sat Mar 15 12:09:45 2025] [::1]:49122 Accepted
+[Sat Mar 15 12:09:45 2025] [::1]:49122 [200]: POST /login.php
+[Sat Mar 15 12:09:45 2025] [::1]:49122 Closing
+[Sat Mar 15 12:09:45 2025] [::1]:49136 Accepted
+[Sat Mar 15 12:09:45 2025] [::1]:49136 [200]: GET /assets/css/bootstrap.min.css
+[Sat Mar 15 12:09:45 2025] [::1]:49136 Closing
+[Sat Mar 15 12:09:45 2025] [::1]:49152 Accepted
+[Sat Mar 15 12:09:45 2025] [::1]:49152 [200]: GET /assets/css/style.css
+[Sat Mar 15 12:09:45 2025] [::1]:49152 Closing
+[Sat Mar 15 12:09:45 2025] [::1]:49154 Accepted
+[Sat Mar 15 12:09:45 2025] [::1]:49154 [302]: GET /favicon.ico
+[Sat Mar 15 12:09:45 2025] [::1]:49154 Closing
+[Sat Mar 15 12:09:45 2025] [::1]:49164 Accepted
+[Sat Mar 15 12:09:45 2025] [::1]:49164 [200]: GET /login.php
+[Sat Mar 15 12:09:45 2025] [::1]:49164 Closing

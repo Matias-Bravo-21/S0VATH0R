@@ -1,0 +1,211 @@
+[Mon Mar 17 11:42:40 2025] PHP 8.4.4 Development Server (http://localhost:2525) started
+[Mon Mar 17 11:42:59 2025] [::1]:45930 Accepted
+[Mon Mar 17 11:42:59 2025] [::1]:45930 [302]: GET /
+[Mon Mar 17 11:42:59 2025] [::1]:45930 Closing
+[Mon Mar 17 11:42:59 2025] [::1]:45932 Accepted
+[Mon Mar 17 11:42:59 2025] [::1]:45932 [200]: GET /login.php
+[Mon Mar 17 11:42:59 2025] [::1]:45932 Closing
+[Mon Mar 17 11:43:00 2025] [::1]:45942 Accepted
+[Mon Mar 17 11:43:00 2025] [::1]:45942 [200]: GET /assets/css/bootstrap.min.css
+[Mon Mar 17 11:43:00 2025] [::1]:45954 Accepted
+[Mon Mar 17 11:43:00 2025] [::1]:45942 Closing
+[Mon Mar 17 11:43:00 2025] [::1]:45954 [200]: GET /assets/css/style.css
+[Mon Mar 17 11:43:00 2025] [::1]:45954 Closing
+[Mon Mar 17 11:43:00 2025] [::1]:45956 Accepted
+[Mon Mar 17 11:43:00 2025] [::1]:45956 [302]: GET /favicon.ico
+[Mon Mar 17 11:43:00 2025] [::1]:45956 Closing
+[Mon Mar 17 11:43:04 2025] [::1]:45962 Accepted
+[Mon Mar 17 11:43:04 2025] [::1]:45962 [200]: POST /login.php
+[Mon Mar 17 11:43:04 2025] [::1]:45962 Closing
+[Mon Mar 17 11:43:04 2025] [::1]:45968 Accepted
+[Mon Mar 17 11:43:04 2025] [::1]:45968 [200]: GET /assets/css/bootstrap.min.css
+[Mon Mar 17 11:43:04 2025] [::1]:45968 Closing
+[Mon Mar 17 11:43:04 2025] [::1]:45984 Accepted
+[Mon Mar 17 11:43:04 2025] [::1]:45984 [200]: GET /assets/css/style.css
+[Mon Mar 17 11:43:04 2025] [::1]:45984 Closing
+[Mon Mar 17 11:43:05 2025] [::1]:45998 Accepted
+[Mon Mar 17 11:43:05 2025] [::1]:45998 [200]: GET /panel.php
+[Mon Mar 17 11:43:05 2025] [::1]:45998 Closing
+[Mon Mar 17 11:43:05 2025] [::1]:46004 Accepted
+[Mon Mar 17 11:43:05 2025] [::1]:46004 [200]: GET /assets/css/bootstrap.min.css
+[Mon Mar 17 11:43:05 2025] [::1]:46008 Accepted
+[Mon Mar 17 11:43:05 2025] [::1]:46004 Closing
+[Mon Mar 17 11:43:05 2025] [::1]:46008 [200]: GET /assets/js/sweetalert2.min.js
+[Mon Mar 17 11:43:05 2025] [::1]:46018 Accepted
+[Mon Mar 17 11:43:05 2025] [::1]:46028 Accepted
+[Mon Mar 17 11:43:05 2025] [::1]:46040 Accepted
+[Mon Mar 17 11:43:05 2025] [::1]:46018 [200]: GET /assets/css/light-theme.min.css
+[Mon Mar 17 11:43:05 2025] [::1]:46008 Closing
+[Mon Mar 17 11:43:05 2025] [::1]:46028 [200]: GET /assets/js/jquery.min.js
+[Mon Mar 17 11:43:05 2025] [::1]:46046 Accepted
+[Mon Mar 17 11:43:05 2025] [::1]:46040 [200]: GET /assets/js/growl-notification.min.js
+[Mon Mar 17 11:43:05 2025] [::1]:46046 [200]: GET /assets/js/script.js
+[Mon Mar 17 11:43:05 2025] [::1]:46018 Closing
+[Mon Mar 17 11:43:05 2025] [::1]:46028 Closing
+[Mon Mar 17 11:43:05 2025] [::1]:46040 Closing
+[Mon Mar 17 11:43:05 2025] [::1]:46046 Closing
+[Mon Mar 17 11:43:06 2025] [::1]:35294 Accepted
+[Mon Mar 17 11:43:06 2025] [::1]:35294 [200]: GET /Settings.json
+[Mon Mar 17 11:43:06 2025] [::1]:35294 Closing
+[Mon Mar 17 11:43:06 2025] [::1]:35308 Accepted
+[Mon Mar 17 11:43:06 2025] [::1]:35308 [200]: POST /list_templates.php
+[Mon Mar 17 11:43:06 2025] [::1]:35308 Closing
+[Mon Mar 17 11:43:07 2025] [::1]:35322 Accepted
+[Mon Mar 17 11:43:07 2025] [::1]:35322 [302]: GET /login.php
+[Mon Mar 17 11:43:07 2025] [::1]:35322 Closing
+[Mon Mar 17 11:43:09 2025] [::1]:35324 Accepted
+[Mon Mar 17 11:43:09 2025] [::1]:35324 [200]: POST /receiver.php
+[Mon Mar 17 11:43:09 2025] [::1]:35324 Closing
+[Mon Mar 17 11:43:11 2025] [::1]:35340 Accepted
+[Mon Mar 17 11:43:11 2025] [::1]:35340 [200]: POST /receiver.php
+[Mon Mar 17 11:43:11 2025] [::1]:35340 Closing
+[Mon Mar 17 11:43:13 2025] [::1]:35350 Accepted
+[Mon Mar 17 11:43:13 2025] [::1]:35350 [200]: POST /receiver.php
+[Mon Mar 17 11:43:13 2025] [::1]:35350 Closing
+[Mon Mar 17 11:43:16 2025] [::1]:50356 Accepted
+[Mon Mar 17 11:43:16 2025] [::1]:50356 [200]: POST /receiver.php
+[Mon Mar 17 11:43:16 2025] [::1]:50356 Closing
+[Mon Mar 17 11:43:18 2025] [::1]:50358 Accepted
+[Mon Mar 17 11:43:18 2025] [::1]:50358 [200]: POST /receiver.php
+[Mon Mar 17 11:43:18 2025] [::1]:50358 Closing
+[Mon Mar 17 11:43:18 2025] [::1]:50362 Accepted
+[Mon Mar 17 11:43:18 2025] [::1]:50362 [200]: GET /templates/camera_temp/index.html
+[Mon Mar 17 11:43:18 2025] [::1]:50362 Closing
+[Mon Mar 17 11:43:18 2025] [::1]:50378 Accepted
+[Mon Mar 17 11:43:18 2025] [::1]:50386 Accepted
+[Mon Mar 17 11:43:18 2025] [::1]:50378 [200]: GET /assets/js/jquery.min.js
+[Mon Mar 17 11:43:18 2025] [::1]:50378 Closing
+[Mon Mar 17 11:43:18 2025] [::1]:50386 [200]: GET /assets/js/client.min.js
+[Mon Mar 17 11:43:18 2025] [::1]:50386 Closing
+[Mon Mar 17 11:43:18 2025] [::1]:50394 Accepted
+[Mon Mar 17 11:43:18 2025] [::1]:50402 Accepted
+[Mon Mar 17 11:43:18 2025] [::1]:50394 [200]: GET /templates/camera_temp/style.css
+[Mon Mar 17 11:43:18 2025] [::1]:50402 [200]: GET /assets/js/loc.js
+[Mon Mar 17 11:43:18 2025] [::1]:50410 Accepted
+[Mon Mar 17 11:43:18 2025] [::1]:50394 Closing
+[Mon Mar 17 11:43:18 2025] [::1]:50402 Closing
+[Mon Mar 17 11:43:18 2025] [::1]:50410 [200]: GET /templates/camera_temp/all.css
+[Mon Mar 17 11:43:18 2025] [::1]:50410 Closing
+[Mon Mar 17 11:43:20 2025] [::1]:50420 Accepted
+[Mon Mar 17 11:43:20 2025] [::1]:50420 [200]: POST /receiver.php
+[Mon Mar 17 11:43:20 2025] [::1]:50420 Closing
+[Mon Mar 17 11:43:21 2025] [::1]:50428 Accepted
+[Mon Mar 17 11:43:21 2025] [::1]:50428 [302]: GET /favicon.ico
+[Mon Mar 17 11:43:21 2025] [::1]:50428 Closing
+[Mon Mar 17 11:43:21 2025] [::1]:50436 Accepted
+[Mon Mar 17 11:43:21 2025] [::1]:50436 [200]: GET /panel.php
+[Mon Mar 17 11:43:21 2025] [::1]:50436 Closing
+[Mon Mar 17 11:43:21 2025] [::1]:50444 Accepted
+[Mon Mar 17 11:43:21 2025] [::1]:50444 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Mon Mar 17 11:43:21 2025] [::1]:50444 Closing
+[Mon Mar 17 11:43:21 2025] [::1]:50450 Accepted
+[Mon Mar 17 11:43:21 2025] [::1]:50450 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Mon Mar 17 11:43:21 2025] [::1]:50450 Closing
+[Mon Mar 17 11:43:22 2025] [::1]:50460 Accepted
+[Mon Mar 17 11:43:22 2025] [::1]:50460 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Mon Mar 17 11:43:22 2025] [::1]:50460 Closing
+[Mon Mar 17 11:43:22 2025] [::1]:50464 Accepted
+[Mon Mar 17 11:43:22 2025] [::1]:50464 [200]: POST /receiver.php
+[Mon Mar 17 11:43:22 2025] [::1]:50464 Closing
+[Mon Mar 17 11:43:24 2025] [::1]:50478 Accepted
+[Mon Mar 17 11:43:24 2025] [::1]:50478 [200]: POST /templates/camera_temp/handler.php
+[Mon Mar 17 11:43:24 2025] [::1]:50478 Closing
+[Mon Mar 17 11:43:24 2025] [::1]:50484 Accepted
+[Mon Mar 17 11:43:24 2025] [::1]:50484 [200]: POST /receiver.php
+[Mon Mar 17 11:43:24 2025] [::1]:50484 Closing
+[Mon Mar 17 11:43:26 2025] [::1]:42620 Accepted
+[Mon Mar 17 11:43:26 2025] [::1]:42620 [200]: POST /receiver.php
+[Mon Mar 17 11:43:26 2025] [::1]:42620 Closing
+[Mon Mar 17 11:43:28 2025] [::1]:42628 Accepted
+[Mon Mar 17 11:43:28 2025] [::1]:42628 [200]: POST /receiver.php
+[Mon Mar 17 11:43:28 2025] [::1]:42628 Closing
+[Mon Mar 17 11:43:30 2025] [::1]:42638 Accepted
+[Mon Mar 17 11:43:30 2025] [::1]:42638 [200]: POST /receiver.php
+[Mon Mar 17 11:43:30 2025] [::1]:42638 Closing
+[Mon Mar 17 11:43:32 2025] [::1]:42640 Accepted
+[Mon Mar 17 11:43:32 2025] [::1]:42640 [200]: POST /receiver.php
+[Mon Mar 17 11:43:32 2025] [::1]:42640 Closing
+[Mon Mar 17 11:43:33 2025] [::1]:42656 Accepted
+[Mon Mar 17 11:43:34 2025] [::1]:42656 [200]: POST /templates/camera_temp/post.php
+[Mon Mar 17 11:43:34 2025] [::1]:42656 Closing
+[Mon Mar 17 11:43:34 2025] [::1]:42670 Accepted
+[Mon Mar 17 11:43:34 2025] [::1]:42670 [200]: POST /receiver.php
+[Mon Mar 17 11:43:34 2025] [::1]:42670 Closing
+[Mon Mar 17 11:43:36 2025] [::1]:58214 Accepted
+[Mon Mar 17 11:43:36 2025] [::1]:58214 [200]: POST /receiver.php
+[Mon Mar 17 11:43:36 2025] [::1]:58214 Closing
+[Mon Mar 17 11:43:38 2025] [::1]:58226 Accepted
+[Mon Mar 17 11:43:38 2025] [::1]:58226 [200]: POST /receiver.php
+[Mon Mar 17 11:43:38 2025] [::1]:58226 Closing
+[Mon Mar 17 11:43:40 2025] [::1]:58240 Accepted
+[Mon Mar 17 11:43:40 2025] [::1]:58240 [200]: POST /receiver.php
+[Mon Mar 17 11:43:40 2025] [::1]:58240 Closing
+[Mon Mar 17 11:43:42 2025] [::1]:58256 Accepted
+[Mon Mar 17 11:43:43 2025] [::1]:58272 Accepted
+[Mon Mar 17 11:43:43 2025] [::1]:58272 [200]: POST /receiver.php
+[Mon Mar 17 11:43:43 2025] [::1]:58272 Closing
+[Mon Mar 17 11:43:43 2025] [::1]:58256 [200]: POST /templates/camera_temp/post.php
+[Mon Mar 17 11:43:43 2025] [::1]:58256 Closing
+[Mon Mar 17 11:43:44 2025] [::1]:58280 Accepted
+[Mon Mar 17 11:43:44 2025] [::1]:58280 [200]: POST /receiver.php
+[Mon Mar 17 11:43:44 2025] [::1]:58280 Closing
+[Mon Mar 17 11:43:46 2025] [::1]:41368 Accepted
+[Mon Mar 17 11:43:46 2025] [::1]:41368 [200]: POST /receiver.php
+[Mon Mar 17 11:43:46 2025] [::1]:41368 Closing
+[Mon Mar 17 11:43:48 2025] [::1]:41382 Accepted
+[Mon Mar 17 11:43:48 2025] [::1]:41382 [200]: POST /receiver.php
+[Mon Mar 17 11:43:48 2025] [::1]:41382 Closing
+[Mon Mar 17 11:43:50 2025] [::1]:41398 Accepted
+[Mon Mar 17 11:43:50 2025] [::1]:41398 [200]: POST /receiver.php
+[Mon Mar 17 11:43:50 2025] [::1]:41398 Closing
+[Mon Mar 17 11:43:51 2025] [::1]:41406 Accepted
+[Mon Mar 17 11:43:52 2025] [::1]:41406 [200]: POST /templates/camera_temp/post.php
+[Mon Mar 17 11:43:52 2025] [::1]:41406 Closing
+[Mon Mar 17 11:43:52 2025] [::1]:41422 Accepted
+[Mon Mar 17 11:43:52 2025] [::1]:41422 [200]: POST /receiver.php
+[Mon Mar 17 11:43:52 2025] [::1]:41422 Closing
+[Mon Mar 17 11:43:54 2025] [::1]:41426 Accepted
+[Mon Mar 17 11:43:54 2025] [::1]:41426 [200]: POST /receiver.php
+[Mon Mar 17 11:43:54 2025] [::1]:41426 Closing
+[Mon Mar 17 11:43:56 2025] [::1]:56910 Accepted
+[Mon Mar 17 11:43:56 2025] [::1]:56910 [200]: POST /receiver.php
+[Mon Mar 17 11:43:56 2025] [::1]:56910 Closing
+[Mon Mar 17 11:43:58 2025] [::1]:56914 Accepted
+[Mon Mar 17 11:43:58 2025] [::1]:56914 [200]: POST /receiver.php
+[Mon Mar 17 11:43:58 2025] [::1]:56914 Closing
+[Mon Mar 17 11:44:00 2025] [::1]:56924 Accepted
+[Mon Mar 17 11:44:01 2025] [::1]:56924 [200]: POST /templates/camera_temp/post.php
+[Mon Mar 17 11:44:01 2025] [::1]:56924 Closing
+[Mon Mar 17 11:44:01 2025] [::1]:56932 Accepted
+[Mon Mar 17 11:44:01 2025] [::1]:56932 [200]: POST /receiver.php
+[Mon Mar 17 11:44:01 2025] [::1]:56932 Closing
+[Mon Mar 17 11:44:03 2025] [::1]:56936 Accepted
+[Mon Mar 17 11:44:03 2025] [::1]:56936 [200]: POST /receiver.php
+[Mon Mar 17 11:44:03 2025] [::1]:56936 Closing
+[Mon Mar 17 11:44:05 2025] [::1]:56946 Accepted
+[Mon Mar 17 11:44:05 2025] [::1]:56946 [200]: POST /receiver.php
+[Mon Mar 17 11:44:05 2025] [::1]:56946 Closing
+[Mon Mar 17 11:44:07 2025] [::1]:57864 Accepted
+[Mon Mar 17 11:44:07 2025] [::1]:57864 [200]: POST /receiver.php
+[Mon Mar 17 11:44:07 2025] [::1]:57864 Closing
+[Mon Mar 17 11:44:09 2025] [::1]:57870 Accepted
+[Mon Mar 17 11:44:09 2025] [::1]:57870 [200]: POST /receiver.php
+[Mon Mar 17 11:44:09 2025] [::1]:57870 Closing
+[Mon Mar 17 11:44:09 2025] [::1]:57884 Accepted
+[Mon Mar 17 11:44:10 2025] [::1]:57884 [200]: POST /templates/camera_temp/post.php
+[Mon Mar 17 11:44:10 2025] [::1]:57884 Closing
+[Mon Mar 17 11:44:11 2025] [::1]:57894 Accepted
+[Mon Mar 17 11:44:11 2025] [::1]:57894 [200]: POST /receiver.php
+[Mon Mar 17 11:44:11 2025] [::1]:57894 Closing
+[Mon Mar 17 11:44:13 2025] [::1]:57896 Accepted
+[Mon Mar 17 11:44:13 2025] [::1]:57896 [200]: POST /receiver.php
+[Mon Mar 17 11:44:13 2025] [::1]:57896 Closing
+[Mon Mar 17 11:44:15 2025] [::1]:57902 Accepted
+[Mon Mar 17 11:44:15 2025] [::1]:57902 [200]: POST /receiver.php
+[Mon Mar 17 11:44:15 2025] [::1]:57902 Closing
+[Mon Mar 17 11:44:17 2025] [::1]:36840 Accepted
+[Mon Mar 17 11:44:17 2025] [::1]:36840 [200]: POST /receiver.php
+[Mon Mar 17 11:44:17 2025] [::1]:36840 Closing
+[Mon Mar 17 11:44:19 2025] [::1]:36844 Accepted
+[Mon Mar 17 11:44:19 2025] [::1]:36844 [200]: POST /receiver.php
+[Mon Mar 17 11:44:19 2025] [::1]:36844 Closing

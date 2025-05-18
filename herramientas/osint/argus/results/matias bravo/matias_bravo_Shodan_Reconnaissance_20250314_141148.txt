@@ -1,0 +1,12 @@
+=== Shodan Reconnaissance ===
+
+=============================================
+Argus - Shodan Exposure Analyzer
+=============================================
+
+[!] Error: Unable to resolve matias bravo to an IP address.
+[!] Could not resolve domain: matias bravo
+
+[*] Shodan Recon completed.
+
+

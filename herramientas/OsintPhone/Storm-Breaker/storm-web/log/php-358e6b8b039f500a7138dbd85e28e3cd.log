@@ -1,0 +1,55 @@
+[Wed Mar 19 15:37:40 2025] PHP 8.4.4 Development Server (http://localhost:2525) started
+[Wed Mar 19 15:37:54 2025] [::1]:35510 Accepted
+[Wed Mar 19 15:37:54 2025] [::1]:35510 [302]: GET /
+[Wed Mar 19 15:37:54 2025] [::1]:35510 Closing
+[Wed Mar 19 15:37:54 2025] [::1]:35512 Accepted
+[Wed Mar 19 15:37:54 2025] [::1]:35512 [200]: GET /login.php
+[Wed Mar 19 15:37:54 2025] [::1]:35512 Closing
+[Wed Mar 19 15:37:54 2025] [::1]:35524 Accepted
+[Wed Mar 19 15:37:54 2025] [::1]:35524 [200]: GET /assets/css/bootstrap.min.css
+[Wed Mar 19 15:37:54 2025] [::1]:35524 Closing
+[Wed Mar 19 15:37:54 2025] [::1]:35540 Accepted
+[Wed Mar 19 15:37:54 2025] [::1]:35540 [200]: GET /assets/css/style.css
+[Wed Mar 19 15:37:54 2025] [::1]:35540 Closing
+[Wed Mar 19 15:37:55 2025] [::1]:35548 Accepted
+[Wed Mar 19 15:37:55 2025] [::1]:35548 [302]: GET /favicon.ico
+[Wed Mar 19 15:37:55 2025] [::1]:35548 Closing
+[Wed Mar 19 15:37:59 2025] [::1]:35550 Accepted
+[Wed Mar 19 15:37:59 2025] [::1]:35550 [200]: POST /login.php
+[Wed Mar 19 15:37:59 2025] [::1]:35550 Closing
+[Wed Mar 19 15:37:59 2025] [::1]:35558 Accepted
+[Wed Mar 19 15:37:59 2025] [::1]:35558 [200]: GET /assets/css/bootstrap.min.css
+[Wed Mar 19 15:37:59 2025] [::1]:35574 Accepted
+[Wed Mar 19 15:37:59 2025] [::1]:35558 Closing
+[Wed Mar 19 15:37:59 2025] [::1]:35574 [200]: GET /assets/css/style.css
+[Wed Mar 19 15:37:59 2025] [::1]:35574 Closing
+[Wed Mar 19 15:38:00 2025] [::1]:35584 Accepted
+[Wed Mar 19 15:38:00 2025] [::1]:35584 [200]: GET /panel.php
+[Wed Mar 19 15:38:00 2025] [::1]:35584 Closing
+[Wed Mar 19 15:38:00 2025] [::1]:35624 Accepted
+[Wed Mar 19 15:38:00 2025] [::1]:35604 Accepted
+[Wed Mar 19 15:38:00 2025] [::1]:35598 Accepted
+[Wed Mar 19 15:38:00 2025] [::1]:35634 Accepted
+[Wed Mar 19 15:38:00 2025] [::1]:35596 Accepted
+[Wed Mar 19 15:38:00 2025] [::1]:35648 Accepted
+[Wed Mar 19 15:38:00 2025] [::1]:35604 [200]: GET /assets/css/bootstrap.min.css
+[Wed Mar 19 15:38:00 2025] [::1]:35634 [200]: GET /assets/js/script.js
+[Wed Mar 19 15:38:00 2025] [::1]:35596 [200]: GET /assets/js/sweetalert2.min.js
+[Wed Mar 19 15:38:00 2025] [::1]:35648 [200]: GET /assets/css/light-theme.min.css
+[Wed Mar 19 15:38:00 2025] [::1]:35634 Closing
+[Wed Mar 19 15:38:00 2025] [::1]:35604 Closing
+[Wed Mar 19 15:38:00 2025] [::1]:35596 Closing
+[Wed Mar 19 15:38:00 2025] [::1]:35648 Closing
+[Wed Mar 19 15:38:00 2025] [::1]:35598 [200]: GET /assets/js/growl-notification.min.js
+[Wed Mar 19 15:38:00 2025] [::1]:35598 Closing
+[Wed Mar 19 15:38:00 2025] [::1]:35624 [200]: GET /assets/js/jquery.min.js
+[Wed Mar 19 15:38:00 2025] [::1]:35624 Closing
+[Wed Mar 19 15:38:02 2025] [::1]:35652 Accepted
+[Wed Mar 19 15:38:02 2025] [::1]:35666 Accepted
+[Wed Mar 19 15:38:02 2025] [::1]:35666 [200]: GET /Settings.json
+[Wed Mar 19 15:38:02 2025] [::1]:35652 [200]: POST /list_templates.php
+[Wed Mar 19 15:38:02 2025] [::1]:35652 Closing
+[Wed Mar 19 15:38:02 2025] [::1]:35666 Closing
+[Wed Mar 19 15:38:02 2025] [::1]:35678 Accepted
+[Wed Mar 19 15:38:02 2025] [::1]:35678 [302]: GET /login.php
+[Wed Mar 19 15:38:02 2025] [::1]:35678 Closing

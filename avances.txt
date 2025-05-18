@@ -1,0 +1,48 @@
+jueves 13/3/2025
+creamos las carpetas y el entorno para programarlos, la idea seria usar la libreria os para hacer llamada a uno y cada uno de las herramientas que tenemos
+
+posibles ideas ocurridas:
+---alguna libreria para cargar mas bonito el logo inicial
+---crearle un entorno para que el se instale por si solo sus dependencias
+
+viernes 14/03/2025
+tratar de avanzar en las llamadas del sistema y crear el modelo de las clases junto a sus funciones correspondientes.
+
+actualizacion:
+logramos las primeras 2 aplicaciones hacerla funcionar holehe y argus, revisar la libreria subprocess,
+quedamos en capturar los errores de osintgram y despues configurar la intalacion de config.ini
+se crea la carpeta modulos, para lograr encapsular mas el codigo
+
+sabado 15/03/25
+terminaremos de ordenar la idea de modulo y pondremos en pausa las llamadas de aplicaciones para mantener un orden
+
+actualizacion
+logramos diferenciar la estructura de osint o telefono, creamos una animacion de inicio y el exit falta programarlo
+logramos hacer funcionar ya osintphone con infoga y inscpector
+
+Pendiente:
+
+1. queda pendiente la tarea "apertura de ngrok con el comando en bash "ngrok http 2525""
+2. al funcionar el programa storm breaker necesita primero un tunel ngrok para hacer ataques de phishing
+3. seguir con los otros menus a realizar, reordenar las herramientas, descargar nuevas herramientas o abrir las que vienne por defecto en kali.
+
+Bugs por arreglar -->
+
+funcion osint_phone_menu()
+--- al llamar a la aplicacion inspector y regresar cambia los colores y luego falla al llamar otra aplicacion
+
+
+lunes 17/03/25
+
+el error de storm breaker se soluciono a pyautogui capas de simular el inciio de una ventana ngrok
+
+martes 18/03/25
+
+haremos la implementacion total de la herramienta storm
+
+vulnerabilidades ---> al escanear el numero solo lee 12 caracteres
+solucionar error en st.py de storm, no abre el servidor ngrok
+
+miercoles 19/03/25
+logramos hacer funcionar la herramienta storm modificando modules/control.py
+linea 47: agregamos nuestra llamada a ngrok al mismo tiempo se ejecuta el programa

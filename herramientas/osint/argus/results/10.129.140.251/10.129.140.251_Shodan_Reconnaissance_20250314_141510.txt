@@ -1,0 +1,12 @@
+=== Shodan Reconnaissance ===
+
+=============================================
+Argus - Shodan Exposure Analyzer
+=============================================
+
+[!] 10.129.140.251: Access Forbidden. Check your API key.
+[!] 10.129.140.251: Access Forbidden. Check your API key.
+
+[*] Shodan Recon completed.
+
+

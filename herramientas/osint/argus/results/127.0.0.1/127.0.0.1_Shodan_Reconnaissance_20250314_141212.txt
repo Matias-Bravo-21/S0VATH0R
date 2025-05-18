@@ -1,0 +1,12 @@
+=== Shodan Reconnaissance ===
+
+=============================================
+Argus - Shodan Exposure Analyzer
+=============================================
+
+[!] 127.0.0.1: No data found.
+[!] 127.0.0.1: No data found.
+
+[*] Shodan Recon completed.
+
+

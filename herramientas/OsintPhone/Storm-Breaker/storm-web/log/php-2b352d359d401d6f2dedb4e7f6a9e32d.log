@@ -1,0 +1,2 @@
+[Sat Apr 19 07:55:49 2025] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_mysql.so' (tried: /usr/lib/php/20240924/pdo_mysql.so (/usr/lib/php/20240924/pdo_mysql.so: undefined symbol: mysqlnd_get_client_info), /usr/lib/php/20240924/pdo_mysql.so.so (/usr/lib/php/20240924/pdo_mysql.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[Sat Apr 19 07:55:49 2025] PHP 8.4.5 Development Server (http://localhost:2525) started

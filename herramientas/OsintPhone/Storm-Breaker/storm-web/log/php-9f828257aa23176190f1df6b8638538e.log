@@ -1,0 +1,205 @@
+[Sat Apr 12 20:54:33 2025] PHP 8.4.5 Development Server (http://localhost:2525) started
+[Sat Apr 12 20:55:25 2025] [::1]:38784 Accepted
+[Sat Apr 12 20:55:25 2025] [::1]:38784 [302]: GET /
+[Sat Apr 12 20:55:25 2025] [::1]:38784 Closing
+[Sat Apr 12 20:55:25 2025] [::1]:38792 Accepted
+[Sat Apr 12 20:55:25 2025] [::1]:38792 [200]: GET /login.php
+[Sat Apr 12 20:55:25 2025] [::1]:38792 Closing
+[Sat Apr 12 20:55:25 2025] [::1]:38802 Accepted
+[Sat Apr 12 20:55:25 2025] [::1]:38818 Accepted
+[Sat Apr 12 20:55:25 2025] [::1]:38802 [200]: GET /assets/css/bootstrap.min.css
+[Sat Apr 12 20:55:25 2025] [::1]:38818 [200]: GET /assets/css/style.css
+[Sat Apr 12 20:55:25 2025] [::1]:38802 Closing
+[Sat Apr 12 20:55:25 2025] [::1]:38818 Closing
+[Sat Apr 12 20:55:29 2025] [::1]:38826 Accepted
+[Sat Apr 12 20:55:29 2025] [::1]:38826 [200]: POST /login.php
+[Sat Apr 12 20:55:29 2025] [::1]:38826 Closing
+[Sat Apr 12 20:55:29 2025] [::1]:38828 Accepted
+[Sat Apr 12 20:55:29 2025] [::1]:38828 [200]: GET /assets/css/bootstrap.min.css
+[Sat Apr 12 20:55:29 2025] [::1]:38828 Closing
+[Sat Apr 12 20:55:29 2025] [::1]:38830 Accepted
+[Sat Apr 12 20:55:29 2025] [::1]:38830 [200]: GET /assets/css/style.css
+[Sat Apr 12 20:55:29 2025] [::1]:38830 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38832 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38832 [200]: GET /panel.php
+[Sat Apr 12 20:55:30 2025] [::1]:38832 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38844 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38846 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38846 [200]: GET /assets/js/jquery.min.js
+[Sat Apr 12 20:55:30 2025] [::1]:38844 [200]: GET /assets/css/light-theme.min.css
+[Sat Apr 12 20:55:30 2025] [::1]:38862 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38846 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38844 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38862 [200]: GET /assets/css/bootstrap.min.css
+[Sat Apr 12 20:55:30 2025] [::1]:38862 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38866 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38866 [200]: GET /assets/js/script.js
+[Sat Apr 12 20:55:30 2025] [::1]:38882 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38884 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38866 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38882 [200]: GET /assets/js/sweetalert2.min.js
+[Sat Apr 12 20:55:30 2025] [::1]:38884 [200]: GET /assets/js/growl-notification.min.js
+[Sat Apr 12 20:55:30 2025] [::1]:38882 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38884 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38900 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38902 Accepted
+[Sat Apr 12 20:55:30 2025] [::1]:38900 [200]: GET /Settings.json
+[Sat Apr 12 20:55:30 2025] [::1]:38902 [200]: POST /list_templates.php
+[Sat Apr 12 20:55:30 2025] [::1]:38902 Closing
+[Sat Apr 12 20:55:30 2025] [::1]:38900 Closing
+[Sat Apr 12 20:55:33 2025] [::1]:58188 Accepted
+[Sat Apr 12 20:55:33 2025] [::1]:58188 [200]: POST /receiver.php
+[Sat Apr 12 20:55:33 2025] [::1]:58188 Closing
+[Sat Apr 12 20:55:35 2025] [::1]:58198 Accepted
+[Sat Apr 12 20:55:35 2025] [::1]:58198 [200]: POST /receiver.php
+[Sat Apr 12 20:55:35 2025] [::1]:58198 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58204 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58204 [200]: GET /templates/camera_temp/index.html
+[Sat Apr 12 20:55:37 2025] [::1]:58204 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58208 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58218 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58226 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58208 [200]: GET /templates/camera_temp/IMG_20250412_204553.jpg
+[Sat Apr 12 20:55:37 2025] [::1]:58218 [200]: GET /assets/js/jquery.min.js
+[Sat Apr 12 20:55:37 2025] [::1]:58226 [200]: GET /templates/camera_temp/style.css
+[Sat Apr 12 20:55:37 2025] [::1]:58218 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58208 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58226 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58232 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58242 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58242 [200]: GET /templates/camera_temp/IMG_20250412_204540.jpg
+[Sat Apr 12 20:55:37 2025] [::1]:58232 [200]: GET /templates/camera_temp/fabi.jpg
+[Sat Apr 12 20:55:37 2025] [::1]:58258 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58274 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58232 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58276 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58242 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58282 Accepted
+[Sat Apr 12 20:55:37 2025] [::1]:58274 [200]: GET /assets/js/client.min.js
+[Sat Apr 12 20:55:37 2025] [::1]:58276 [200]: GET /templates/camera_temp/all.css
+[Sat Apr 12 20:55:37 2025] [::1]:58282 [200]: GET /assets/js/loc.js
+[Sat Apr 12 20:55:37 2025] [::1]:58258 [200]: GET /templates/camera_temp/IMG_20250412_204606.jpg
+[Sat Apr 12 20:55:37 2025] [::1]:58274 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58276 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58282 Closing
+[Sat Apr 12 20:55:37 2025] [::1]:58258 Closing
+[Sat Apr 12 20:55:38 2025] [::1]:58290 Accepted
+[Sat Apr 12 20:55:38 2025] [::1]:58290 [200]: POST /receiver.php
+[Sat Apr 12 20:55:38 2025] [::1]:58290 Closing
+[Sat Apr 12 20:55:40 2025] [::1]:58302 Accepted
+[Sat Apr 12 20:55:40 2025] [::1]:58302 [200]: POST /receiver.php
+[Sat Apr 12 20:55:40 2025] [::1]:58302 Closing
+[Sat Apr 12 20:55:40 2025] [::1]:58308 Accepted
+[Sat Apr 12 20:55:40 2025] [::1]:58308 [200]: POST /templates/camera_temp/handler.php
+[Sat Apr 12 20:55:40 2025] [::1]:58308 Closing
+[Sat Apr 12 20:55:42 2025] [::1]:58318 Accepted
+[Sat Apr 12 20:55:42 2025] [::1]:58318 [200]: POST /receiver.php
+[Sat Apr 12 20:55:42 2025] [::1]:58318 Closing
+[Sat Apr 12 20:55:44 2025] [::1]:53216 Accepted
+[Sat Apr 12 20:55:44 2025] [::1]:53216 [200]: POST /receiver.php
+[Sat Apr 12 20:55:44 2025] [::1]:53216 Closing
+[Sat Apr 12 20:55:46 2025] [::1]:53220 Accepted
+[Sat Apr 12 20:55:46 2025] [::1]:53220 [200]: POST /receiver.php
+[Sat Apr 12 20:55:46 2025] [::1]:53220 Closing
+[Sat Apr 12 20:55:48 2025] [::1]:53228 Accepted
+[Sat Apr 12 20:55:48 2025] [::1]:53228 [200]: POST /receiver.php
+[Sat Apr 12 20:55:48 2025] [::1]:53228 Closing
+[Sat Apr 12 20:55:50 2025] [::1]:53232 Accepted
+[Sat Apr 12 20:55:50 2025] [::1]:53232 [200]: POST /receiver.php
+[Sat Apr 12 20:55:50 2025] [::1]:53232 Closing
+[Sat Apr 12 20:55:52 2025] [::1]:53246 Accepted
+[Sat Apr 12 20:55:52 2025] [::1]:53246 [200]: POST /receiver.php
+[Sat Apr 12 20:55:52 2025] [::1]:53246 Closing
+[Sat Apr 12 20:55:54 2025] [::1]:49158 Accepted
+[Sat Apr 12 20:55:54 2025] [::1]:49158 [200]: POST /receiver.php
+[Sat Apr 12 20:55:54 2025] [::1]:49158 Closing
+[Sat Apr 12 20:55:56 2025] [::1]:49168 Accepted
+[Sat Apr 12 20:55:56 2025] [::1]:49168 [200]: POST /receiver.php
+[Sat Apr 12 20:55:56 2025] [::1]:49168 Closing
+[Sat Apr 12 20:55:58 2025] [::1]:49170 Accepted
+[Sat Apr 12 20:55:58 2025] [::1]:49170 [200]: POST /receiver.php
+[Sat Apr 12 20:55:58 2025] [::1]:49170 Closing
+[Sat Apr 12 20:56:00 2025] [::1]:49184 Accepted
+[Sat Apr 12 20:56:00 2025] [::1]:49184 [200]: POST /receiver.php
+[Sat Apr 12 20:56:00 2025] [::1]:49184 Closing
+[Sat Apr 12 20:56:02 2025] [::1]:49186 Accepted
+[Sat Apr 12 20:56:02 2025] [::1]:49186 [200]: POST /receiver.php
+[Sat Apr 12 20:56:02 2025] [::1]:49186 Closing
+[Sat Apr 12 20:56:04 2025] [::1]:44922 Accepted
+[Sat Apr 12 20:56:04 2025] [::1]:44922 [200]: POST /receiver.php
+[Sat Apr 12 20:56:04 2025] [::1]:44922 Closing
+[Sat Apr 12 20:56:06 2025] [::1]:44924 Accepted
+[Sat Apr 12 20:56:06 2025] [::1]:44924 [200]: POST /receiver.php
+[Sat Apr 12 20:56:06 2025] [::1]:44924 Closing
+[Sat Apr 12 20:56:08 2025] [::1]:44940 Accepted
+[Sat Apr 12 20:56:08 2025] [::1]:44940 [200]: POST /receiver.php
+[Sat Apr 12 20:56:08 2025] [::1]:44940 Closing
+[Sat Apr 12 20:56:10 2025] [::1]:44952 Accepted
+[Sat Apr 12 20:56:10 2025] [::1]:44952 [200]: POST /receiver.php
+[Sat Apr 12 20:56:10 2025] [::1]:44952 Closing
+[Sat Apr 12 20:56:12 2025] [::1]:44962 Accepted
+[Sat Apr 12 20:56:12 2025] [::1]:44962 [200]: POST /receiver.php
+[Sat Apr 12 20:56:12 2025] [::1]:44962 Closing
+[Sat Apr 12 20:56:14 2025] [::1]:54148 Accepted
+[Sat Apr 12 20:56:14 2025] [::1]:54148 [200]: POST /receiver.php
+[Sat Apr 12 20:56:14 2025] [::1]:54148 Closing
+[Sat Apr 12 20:56:16 2025] [::1]:54150 Accepted
+[Sat Apr 12 20:56:16 2025] [::1]:54150 [200]: POST /receiver.php
+[Sat Apr 12 20:56:16 2025] [::1]:54150 Closing
+[Sat Apr 12 20:56:18 2025] [::1]:54164 Accepted
+[Sat Apr 12 20:56:18 2025] [::1]:54164 [200]: POST /receiver.php
+[Sat Apr 12 20:56:18 2025] [::1]:54164 Closing
+[Sat Apr 12 20:56:20 2025] [::1]:54170 Accepted
+[Sat Apr 12 20:56:20 2025] [::1]:54170 [200]: POST /receiver.php
+[Sat Apr 12 20:56:20 2025] [::1]:54170 Closing
+[Sat Apr 12 20:56:22 2025] [::1]:54172 Accepted
+[Sat Apr 12 20:56:22 2025] [::1]:54172 [200]: POST /receiver.php
+[Sat Apr 12 20:56:22 2025] [::1]:54172 Closing
+[Sat Apr 12 20:56:24 2025] [::1]:52890 Accepted
+[Sat Apr 12 20:56:24 2025] [::1]:52890 [200]: POST /receiver.php
+[Sat Apr 12 20:56:24 2025] [::1]:52890 Closing
+[Sat Apr 12 20:56:25 2025] [::1]:52902 Accepted
+[Sat Apr 12 20:56:25 2025] [::1]:52902 [200]: POST /templates/camera_temp/post.php
+[Sat Apr 12 20:56:25 2025] [::1]:52902 Closing
+[Sat Apr 12 20:56:26 2025] [::1]:52912 Accepted
+[Sat Apr 12 20:56:26 2025] [::1]:52912 [200]: POST /receiver.php
+[Sat Apr 12 20:56:26 2025] [::1]:52912 Closing
+[Sat Apr 12 20:56:28 2025] [::1]:52918 Accepted
+[Sat Apr 12 20:56:28 2025] [::1]:52918 [200]: POST /receiver.php
+[Sat Apr 12 20:56:28 2025] [::1]:52918 Closing
+[Sat Apr 12 20:56:30 2025] [::1]:52928 Accepted
+[Sat Apr 12 20:56:30 2025] [::1]:52928 [200]: POST /receiver.php
+[Sat Apr 12 20:56:30 2025] [::1]:52928 Closing
+[Sat Apr 12 20:56:32 2025] [::1]:52938 Accepted
+[Sat Apr 12 20:56:32 2025] [::1]:52938 [200]: POST /receiver.php
+[Sat Apr 12 20:56:32 2025] [::1]:52938 Closing
+[Sat Apr 12 20:56:34 2025] [::1]:44112 Accepted
+[Sat Apr 12 20:56:34 2025] [::1]:44112 [200]: POST /receiver.php
+[Sat Apr 12 20:56:34 2025] [::1]:44112 Closing
+[Sat Apr 12 20:56:35 2025] [::1]:44118 Accepted
+[Sat Apr 12 20:56:35 2025] [::1]:44118 [200]: POST /templates/camera_temp/post.php
+[Sat Apr 12 20:56:35 2025] [::1]:44118 Closing
+[Sat Apr 12 20:56:36 2025] [::1]:44122 Accepted
+[Sat Apr 12 20:56:36 2025] [::1]:44122 [200]: POST /receiver.php
+[Sat Apr 12 20:56:36 2025] [::1]:44122 Closing
+[Sat Apr 12 20:56:38 2025] [::1]:44126 Accepted
+[Sat Apr 12 20:56:38 2025] [::1]:44126 [200]: POST /receiver.php
+[Sat Apr 12 20:56:38 2025] [::1]:44126 Closing
+[Sat Apr 12 20:56:38 2025] [::1]:44134 Accepted
+[Sat Apr 12 20:56:38 2025] [::1]:44134 [200]: GET /images/cam13Apr2025005635.png
+[Sat Apr 12 20:56:38 2025] [::1]:44134 Closing
+[Sat Apr 12 20:56:40 2025] [::1]:44144 Accepted
+[Sat Apr 12 20:56:40 2025] [::1]:44144 [200]: POST /receiver.php
+[Sat Apr 12 20:56:40 2025] [::1]:44144 Closing
+[Sat Apr 12 20:56:42 2025] [::1]:44154 Accepted
+[Sat Apr 12 20:56:42 2025] [::1]:44154 [200]: POST /receiver.php
+[Sat Apr 12 20:56:42 2025] [::1]:44154 Closing
+[Sat Apr 12 20:56:44 2025] [::1]:47600 Accepted
+[Sat Apr 12 20:56:44 2025] [::1]:47600 [200]: POST /receiver.php
+[Sat Apr 12 20:56:44 2025] [::1]:47600 Closing
+[Sat Apr 12 20:56:44 2025] [::1]:47602 Accepted
+[Sat Apr 12 20:56:45 2025] [::1]:47602 [200]: POST /templates/camera_temp/post.php
+[Sat Apr 12 20:56:45 2025] [::1]:47602 Closing
+[Sat Apr 12 20:56:46 2025] [::1]:47612 Accepted
+[Sat Apr 12 20:56:46 2025] [::1]:47612 [200]: POST /receiver.php
+[Sat Apr 12 20:56:46 2025] [::1]:47612 Closing
